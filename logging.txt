@@ -1,0 +1,8 @@
+Your conversation Log:
+
+ You:hi
+AI:Hi there! How can I help you today?
+ You:hello
+AI:Hello! How can I assist you today? Are you looking for information, want to chat, or something else?
+ You:welcome
+AI:Thank you! I'm here and ready to help. Welcome to the conversation! What's on your mind?End of conversation
